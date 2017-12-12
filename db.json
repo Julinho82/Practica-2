@@ -1,0 +1,58 @@
+{
+  "users_manager": [
+    {
+      "id": 1,
+      "fullName": "Julio Daviu",
+      "username": "admin",
+      "password": "1234"
+    },
+    {
+      "id": 2,
+      "fullName": "Luis Aviles",
+      "username": "luis",
+      "password": "123"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "firstName": "Julio",
+      "lastName": "Daviu",
+      "street": "Stadium",
+      "city": "Cochabamba",
+      "gender": "Male",
+      "email": "julio.daviu.arevalo@hotmail.com",
+      "pictureURL": "https://www.tm-town.com/assets/default_male300x300-aae6ae0235b6cd78cee8df7ae19f6085.png"
+    },
+    {
+      "id": 2,
+      "firstName": "Alejandro",
+      "lastName": "Delius",
+      "street": "Desconocida",
+      "city": "Cochabamba",
+      "gender": "Male",
+      "email": "delius@gmail.com",
+      "pictureURL": "https://img00.deviantart.net/cc6b/i/2013/319/5/b/male_cartoon_avatar_by_ahninniah-d6ib8p2.png"
+    },
+    {
+      "id": 3,
+      "firstName": "Jalir",
+      "lastName": "Duran",
+      "street": "Av independencia",
+      "city": "Lapaz",
+      "gender": "Male",
+      "email": "jalir@duran.com",
+      "pictureURL": "https://img00.deviantart.net/cc6b/i/2013/319/5/b/male_cartoon_avatar_by_ahninniah-d6ib8p2.png"
+    },
+    {
+      "id": 4,
+      "firstName": "Georgina",
+      "lastName": "Mercado",
+      "street": "Av.Libertador Bolivar",
+      "city": "La Paz",
+      "gender": "Female",
+      "email": "georgi@mail.com",
+      "pictureURL": "https://www.tm-town.com/assets/default_female600x600-3702af30bd630e7b0fa62af75cd2e67c.png"
+    }
+  ]
+}
